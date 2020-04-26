@@ -1,0 +1,9 @@
+[submodule "bc-medical-equipments-vue"]
+	path = bc-medical-equipments-vue
+	url = https://github.com/mehmetalpsumer/bc-medical-equipments-vue.git
+[submodule "bc-medical-equipments-django"]
+	path = bc-medical-equipments-django
+	url = https://github.com/mehmetalpsumer/bc-medical-equipments-django.git
+[submodule "PPE-SupplyBC"]
+	path = PPE-SupplyBC
+	url = git@github.com:ertugrulbatur/PPE-SupplyBC.git
